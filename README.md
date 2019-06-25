@@ -20,6 +20,7 @@ node app.js -a 'istanbul'
 
 
 Result:
+
 Time Zone: Europe/Istanbul
 
 Currently: Partly Cloudy
