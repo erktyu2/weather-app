@@ -10,6 +10,7 @@ It requires 2 api keys,
 Once you create your api keys, replace 'YourKeyHere' with your keys in the file /config/values.js
 
 const darkSkyApiKey = 'YourKeyHere'
+
 const mapQuestApiKey = 'YourKeyHere'
 
 If everything is set up, now you can run the command as below with wanted address 
