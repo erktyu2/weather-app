@@ -12,13 +12,16 @@ Once you create your api keys, replace 'YourKeyHere' with your keys in the file 
 const darkSkyApiKey = 'YourKeyHere'
 const mapQuestApiKey = 'YourKeyHere'
 
-If everything is set up, now you can run the command below with wanted address 
+If everything is set up, now you can run the command as below with wanted address 
 and with -a or --address flag to get time zone, weather and the temprature.
 
 Example:
 node app.js -a 'istanbul'
 
+
 Result:
 Time Zone: Europe/Istanbul
+
 Currently: Partly Cloudy
+
 Temperature : 27°C
